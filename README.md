@@ -4,16 +4,14 @@ Frontend Development Student at <a href="https://platzi.com/">Platzi</a> <img sr
 </em></p>
 
 <p><em>IT Engineering Student at <a href="http://www.itconkal.edu.mx/index.php/es/">Instituto Tecnológico de Conkal</a> <img src="https://media0.giphy.com/media/H6hfqd9oZqH09DCojn/giphy.gif?cid=ecf05e4725y18cabe5krg29rfroopif9zxg5kwkobbvbj44h&rid=giphy.gif&ct=s" width="30">
+<br><br>
 
 <p>I am a frontend developer who loves to use his experience in JavaScript and React.js to provide users with exceptional web application experience and interaction. I'm strongly passionate about learning new software development technologies in a self-taught way.</p>
+<br>
 
 ### 👋🏻 Let's stay in touch!
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/jorge_trad?style=social)](https://twitter.com/jorge_trad)
-
-[![Linkedin: jorgetrad](https://img.shields.io/badge/-jorgetrad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgetrad/)](https://www.linkedin.com/in/jorgetrad/)
-
-[![GitHub Thaiane](https://img.shields.io/github/followers/jorgetrad99?label=follow&style=social)](https://github.com/jorgetrad99)
+[![Linkedin: jorgetrad](https://img.shields.io/badge/-jorgetrad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgetrad/)](https://www.linkedin.com/in/jorgetrad/) [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/jorge_trad?style=social)](https://twitter.com/jorge_trad) [![GitHub Thaiane](https://img.shields.io/github/followers/jorgetrad99?label=follow&style=social)](https://github.com/jorgetrad99)
 
 ### A little more about me <img src="https://media2.giphy.com/media/xThtayu2H2AUPzs1W0/giphy.gif?cid=ecf05e47xdz3i2h60du6j1la0uu79n5myqdkgfj6qmpyyp43&rid=giphy.gif&ct=s" width="30">
 
@@ -29,15 +27,7 @@ const jorge = {
 
 ### Tech & Tools Preference
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
 ### Personal Github Repos 🛠
 
@@ -47,7 +37,7 @@ const jorge = {
 
 ### 📊 Statistics
 
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgetrad99&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgetrad99&layout=compact&theme=tokyonight&hide=PHP,Blade)](https://github.com/jorgetrad99/github-readme-stats)
+![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgetrad99&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgetrad99&layout=compact&theme=tokyonight&hide=PHP,Makefile,Blade)](https://github.com/jorgetrad99/github-readme-stats)
 
 <!--
 **jorgetrad99/jorgetrad99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
