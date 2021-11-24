@@ -37,7 +37,7 @@ const jorge = {
 
 ### 📊 Statistics
 
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgetrad99&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgetrad99&layout=compact&theme=tokyonight&hide=PHP,Makefile,Blade)](https://github.com/jorgetrad99/github-readme-stats)
+![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgetrad99&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgetrad99&layout=compact&theme=tokyonight&hide=PHP,Makefile,Blade,SCSS)](https://github.com/jorgetrad99/github-readme-stats)
 
 <!--
 **jorgetrad99/jorgetrad99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
