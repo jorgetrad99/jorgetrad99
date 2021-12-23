@@ -34,6 +34,7 @@ const jorge = {
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgetrad99&repo=frontend&show_owner=true&theme=tokyonight)](https://github.com/jorgetrad99/frontend)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgetrad99&repo=invoice-generator&show_owner=true&theme=tokyonight)](https://github.com/jorgetrad99/invoice-generator)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgetrad99&repo=sample-variance-excercise&show_owner=true&theme=tokyonight)](https://github.com/jorgetrad99/sample-variance-excercise)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgetrad99&repo=LogicShooter&show_owner=true&theme=tokyonight)](https://github.com/jorgetrad99/LogicShooter)
 
 ### 📊 Statistics
 
