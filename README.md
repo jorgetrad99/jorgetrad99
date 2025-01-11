@@ -41,6 +41,8 @@ const JORGE = {
 
 ![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgetrad99&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgetrad99&layout=compact&theme=tokyonight&hide=PHP,Makefile,Blade,SCSS,Handlebars)](https://github.com/jorgetrad99/github-readme-stats)
 
+<iframe src="https://hackerrank-badge.herokuapp.com/jorgetrad99" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
+
 <!--
 **jorgetrad99/jorgetrad99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
